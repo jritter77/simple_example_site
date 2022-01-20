@@ -1,3 +1,5 @@
+// Basic Nav Bar used for navigating site
+
 
 class NavBar {
 
